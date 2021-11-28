@@ -11,18 +11,21 @@ The solution for exercise 2 is inspired by looking at https://github.com/kshk123
 Comments are avalaible in the codes.
 
 # How to run
-mkdir build <br/>
-cd build/ <br/>
-cmake .. <br/>
+mkdir&nbsp;build <br/>
+cd&nbsp;build/ <br/>
+cmake&nbsp;.. <br/>
 make <br/>
 
 to run the solution of exercise 1, use the following command,<br/>
-  ./exe1 [an unsigned long long int number] or ./exe1 // the latter form runs the program for default input which is 123456789012345678.<br/><br/>  
 
-to run the solution of exercise 2, simply write down ./exe2 in the command line.<br/><br/>
+  ./exe1 [an unsigned long long int number], like ./exe1 1000<br/> 
+  or<br/> 
+  ./exe1 &emsp;&emsp;&emsp;&emsp; // this form runs the program for the default input value which is 123456789012345678.<br/> 
+  
+to run the solution of exercise 2, simply write down ./exe2 in the command line.<br/>
 
 Cheers!
-
+&emsp;
 
 
 
